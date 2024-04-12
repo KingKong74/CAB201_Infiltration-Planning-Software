@@ -1,0 +1,28 @@
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.AssemblyInfoInputs.cache
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.AssemblyInfo.cs
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.csproj.CoreCompileInputs.cache
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.exe
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.deps.json
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.runtimeconfig.json
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.dll
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.pdb
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.dll
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\refint\Assessment_2_Final.dll
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.pdb
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.genruntimeconfig.cache
+C:\Users\baile\OneDrive\Desktop\UNI STUFF\Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\ref\Assessment_2_Final.dll
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.exe
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.deps.json
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.runtimeconfig.json
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.dll
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\bin\Debug\net6.0\Assessment_2_Final.pdb
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.AssemblyInfoInputs.cache
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.AssemblyInfo.cs
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.csproj.CoreCompileInputs.cache
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.dll
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\refint\Assessment_2_Final.dll
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.pdb
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\Assessment_2_Final.genruntimeconfig.cache
+C:\Users\baile\OneDrive\Desktop\UNI_STUFF\'23_Sem2Yr1\CAB201\Assessment\Assessment_2_Final\Assessment_2_Final\obj\Debug\net6.0\ref\Assessment_2_Final.dll
